@@ -1,0 +1,175 @@
+html {
+ /*   height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: #e8e8e8;
+    background-repeat:no-repeat;
+*/
+}
+
+
+
+
+
+body {
+	color:black;
+	font-family: "Arial";
+	background: #e8e8e8;
+}
+p {
+
+	font-size: 14px;
+}
+nav p
+{
+	font-size: 14px;
+}
+ul,li {
+	
+	font-size: 14px;
+}
+ol {
+	
+}
+h1 {
+	text-align: center;
+       font-size: 20px;
+	
+}
+h2 {
+	
+      
+
+}
+h3 {
+	
+      
+	
+}
+br {        
+	
+}
+
+table, td{
+		background-color: #f7f5e6;
+        border: 1px solid black;
+		text-align: center;
+}
+th{
+	background-color: #52658f;
+	color: white;
+	
+	text-align: left;
+}
+th a {
+	color: white;
+}
+
+input{
+	text-align: right;
+	font-family: "Arial Bold";
+	font-size:14px;
+	background-color: white;
+	color: black;
+	border: 0;
+}
+
+textarea
+{
+	font-family: "Arial Bold";
+	background-color: white;
+	color: black;
+}
+
+div{
+}
+
+div[id="menu"]
+{
+	text-align: center;
+
+}
+
+div[id="budgetname"]
+{
+	text-align: center;
+}
+
+div[id="out"]{
+
+	
+	font-size:20px;
+}
+
+header
+{
+		padding: 3px;
+}
+footer
+{
+		padding: 1px;
+}
+header, footer
+{
+	
+	/*background-color: #52658f;*/
+	color: white;
+	font-size:20px;
+	
+	    background: -webkit-linear-gradient( to bottom, #0000aa, #0000FF);
+    background: -moz-linear-gradient( to bottom, #0000aa, #0000FF);
+    background: -ms-linear-gradient( to bottom, #0000aa, #0000FF);
+    background: -o-linear-gradient( to bottom, #0000aa, #0000FF);
+    background: linear-gradient( to bottom, #0000aa, #0000FF);
+
+	
+	}
+
+footer{
+text-align: center;	
+}
+
+
+footer a
+{
+	color: white;
+}
+footer a:hover
+{
+	color: blue;
+}
+tiny
+{
+	font-size: 12px;
+}
+nav
+{
+    float: left;
+
+    margin: 0;
+	padding: 1em;
+}
+nav a
+{
+	color: black;
+}
+nav a:hover
+{
+	color: blue;
+}
+article
+{
+
+    margin-left: 170px;
+    border-left: 1px solid gray;
+
+    padding: 1em;
+    overflow: hidden;
+	
+}
+article a
+{
+	color: black;
+}
